@@ -128,7 +128,7 @@
     margin-top: 46px;
     position: relative;
     padding-top: 50%;
-    background: url(/asset/img/chicago.jpg) top center/cover no-repeat;
+    background: url(./asset/img/chicago.jpg) top center/cover no-repeat;
     color: #fff;
     padding-bottom: 32px;
 }

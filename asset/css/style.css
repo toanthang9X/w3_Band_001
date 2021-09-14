@@ -126,24 +126,17 @@
 }
 #slider{
     margin-top: 46px;
-    /* position: relative; */
     padding-top: 50%;
     /* background: url('/asset/chicago.jpg') top center/cover no-repeat; */
     color: #fff;
     padding-bottom: 50px;
 }
-/* #slider .pc_chicago{
-    width: 100%;
-    position: absolute;
-} */
 
 #slider .text-heading{
-    /* margin-bottom: 160px; */
     font-size: 24px;
     font-weight: 500;
     position: relative;
     z-index: 1;
-    /* color: #f44336; */
 }
 #slider .text-description{
     font-size: 15px;
